@@ -1,0 +1,8 @@
+"EtherealLife"
+{
+	"base"		"sandbox"
+	"title"		"Ethereal Life"
+	"maps"		"^el_"
+	"menusystem"	"1"
+	"workshopid"	""
+}

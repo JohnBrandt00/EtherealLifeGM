@@ -1,0 +1,14 @@
+Gamemode
+------------------------------------------
+Gamemode				SetuSertao_
+
+
+Resources
+------------------------------------------
+Textures				MYND
+Sounds					MYND
+
+
+Coding
+------------------------------------------
+PeelPad					Starkkz/Luke/MYND
